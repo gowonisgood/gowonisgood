@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wavy&color=auto&height=300&section=header&text=고원%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wavy&color=auto&height=300&section=header&text=Gowon%20render&fontSize=90)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)-->
