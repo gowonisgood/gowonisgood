@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=Gowon%20is%20good!&fontSize=90&fontColor=ffffff)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowonisgood&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowonisgood&exclude_repo=unix_basic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨language ✨
