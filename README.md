@@ -16,15 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=Gowon%20is%20good!&fontSize=90&fontColor=ffffff)
 
-<a href="https://github.com/gowonisgood/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowonisgood3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
-</a>    
-<a href="https://github.com/gowonisgood/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowonisgood&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowonisgood&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowonisgood)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨language ✨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
